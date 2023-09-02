@@ -13,6 +13,9 @@ On holding the score the current score gets transferred to the main score of the
 Player who scores greater than 50 wins! 🎉
 
 
+Site deployed using Netlify-- https://htmlgame1.netlify.app/ 
+Enjoy!! 🎉🎉🎉🎉
+
 ![image](https://github.com/dvishal192/HTML_CSS-PigGame/assets/118332569/2a8fe3fc-dcfa-4923-9d18-484bd67c6a58)
 
 --PS Use for learning or your portfolio. Developed in accordance with coursework's curriculum.
